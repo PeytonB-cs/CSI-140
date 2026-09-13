@@ -1,2 +1,2 @@
 # CSI-140
-My intro to programming class repo
+A repo for my intro to programming class. all classwork is in c++.

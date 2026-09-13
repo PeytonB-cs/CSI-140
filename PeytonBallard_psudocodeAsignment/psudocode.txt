@@ -1,0 +1,10 @@
+Begin
+input x
+input y
+SET count to 0
+SET result to 0
+while count is less than y
+	Increment result by x
+	increment count by 1 
+DISPLAY result
+End

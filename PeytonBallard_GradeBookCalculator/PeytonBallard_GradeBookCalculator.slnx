@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="PeytonBallard_GradeBookCalculator.vcxproj" />
+  <Project Path="PeytonBallard_GradeBookCalculator.vcxproj" Id="d2cba9ba-cddd-4fd1-a52a-56cbd29a2504" />
 </Solution>

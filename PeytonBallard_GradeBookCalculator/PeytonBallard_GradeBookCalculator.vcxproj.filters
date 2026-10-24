@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="PeytonBallard_pa1_gradebook.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

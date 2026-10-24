@@ -1,0 +1,6 @@
+Programming Assignments (PA)
+50 25 42
+Labs (L)
+20 25 19
+Exams (E)
+100 50 77

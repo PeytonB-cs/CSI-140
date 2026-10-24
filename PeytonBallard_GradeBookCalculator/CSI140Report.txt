@@ -1,0 +1,10 @@
+Category                        Possible Points         Weight %    Scored Points       Category %
+Programming Assignments (PA)              50.00             0.25            42.00            84.00
+Labs (L)                                  20.00             0.25            19.00            95.00
+Exams (E)                                100.00             0.50            77.00            77.00
+
+
+      Total Possible Points:  170.00
+        Total Scored Points:  138.00
+Unweighted Grade Percentage:  85.33
+  Weighted Grade Percentage:  83.25

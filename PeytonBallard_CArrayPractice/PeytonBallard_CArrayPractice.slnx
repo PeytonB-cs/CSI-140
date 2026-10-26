@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="PeytonBallard_CArrayPractice.vcxproj" />
+  <Project Path="PeytonBallard_CArrayPractice.vcxproj" Id="e94dc1cc-6383-47e9-a853-a93a13420f3b" />
 </Solution>

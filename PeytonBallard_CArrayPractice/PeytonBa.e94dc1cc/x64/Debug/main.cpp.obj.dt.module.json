@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "PeytonBa.e94dc1cc\\x64\\Debug\\main.obj",
+            "outputs": [
+                "PeytonBa.e94dc1cc\\x64\\Debug\\main.cpp.obj.dt.module.json",
+                "PeytonBa.e94dc1cc\\x64\\Debug\\main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

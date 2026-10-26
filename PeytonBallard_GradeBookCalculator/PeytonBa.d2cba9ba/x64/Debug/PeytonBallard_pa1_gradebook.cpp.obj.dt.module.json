@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "PeytonBa.d2cba9ba\\x64\\Debug\\PeytonBallard_pa1_gradebook.obj",
+            "outputs": [
+                "PeytonBa.d2cba9ba\\x64\\Debug\\PeytonBallard_pa1_gradebook.cpp.obj.dt.module.json",
+                "PeytonBa.d2cba9ba\\x64\\Debug\\PeytonBallard_pa1_gradebook.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
